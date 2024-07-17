@@ -15,11 +15,9 @@
 
 <br>
 
-- Computational Robotics Engineering Professor
-- Data Engineering Professor
-- Learning about Artificial Intelligence
-- Passionate about space.
-- I'm currently looking for opportunities to work using my abilities as Engineer [my resume](https://read.cv/0xabdulkhalid)
+I am a Computational Robotics Engineering Professor at the university with a passion for robots and programming. My expertise lies in the intersection of robotics and data engineering, where I bring a unique blend of skills to my work. I have extensive experience with the Robot Operating System (ROS) on the Ubuntu platform, which enhances my ability to design and implement complex robotic systems effectively. As a regular user of Linux OS, particularly Ubuntu, I am proficient in leveraging its capabilities for my programming and robotics projects where the needed of this system is a must. However, I could use different OS for programming in the lenguages mention on the next stages.
+
+I am currently looking for opportunities to work using my abilities as Engineer [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -64,11 +62,6 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-
-<br>
-
-- **Extras**:
-
     ![Bash](https://img.shields.io/badge/Bash-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
