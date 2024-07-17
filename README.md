@@ -11,19 +11,21 @@
 
 ## <picture><img src = "https://media.giphy.com/media/tOiG8Oz4huf5K/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
+<p>
 I am a Computational Robotics Engineering Professor at the university with a passion for robots and programming. My expertise lies in the intersection of robotics and data engineering, where I bring a unique blend of skills to my work. I have extensive experience with the Robot Operating System (ROS) on the Ubuntu platform, which enhances my ability to design and implement complex robotic systems effectively. As a regular user of Linux OS, particularly Ubuntu, I am proficient in leveraging its capabilities for my programming and robotics projects where the needed of this system is a must. However, I could use different OS for programming in the lenguages mention on the next stages.
+</p>
 
 I am currently looking for opportunities to work using my abilities as Engineer [my resume](https://read.cv/0xabdulkhalid)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/VxbvOFEzkQBKKFQ63y/giphy.gif?cid=790b7611m65pw9bwp2g82lfh0i2jn5urau7i6x5t79xith1b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b> Skills</b>
+
 <br>
 
 <p align="center">
@@ -42,6 +44,7 @@ I am currently looking for opportunities to work using my abilities as Engineer 
   ![ROS](https://img.shields.io/badge/ROS%20-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
   ![ABBRobotStudio](https://img.shields.io/badge/ABB%20RobotStudio-FF9E0F.svg?style=for-the-badge&logo=abbrobotstudio&logoColor=white)
   ![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV%20Pi-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
   
   
 <br>
