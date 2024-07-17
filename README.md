@@ -2,26 +2,21 @@
 <!--  -->
 <img src="https://imgur.com/SXwJVTs.png">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Welcome+to+my+repository..&hearts+%3C3;Passionate+about+robotics;Computatioinal+Robotics+Engineer+Professor;Data+Engineering+Professor;I+love+cats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&random=false&width=435&lines=Welcome+to+my+repository...+%3C3;Passionate+about+robots;Computational+Robotics;Data+Engineering;I+love+cats" alt="Typing SVG" /></a>
 </p>
 
 
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/tOiG8Oz4huf5K/giphy.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Computational Robotics Engineering Professor
+- Data Engineering Professor
+- Learning about Artificial Intelligence
+- Passionate about space.
+- I'm currently looking for opportunities to work using my abilities as Engineer [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
