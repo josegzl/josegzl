@@ -18,7 +18,7 @@
 I am a Computational Robotics Engineering Professor at the university with a passion for robots and programming. My expertise lies in the intersection of robotics and data engineering, where I bring a unique blend of skills to my work. I have extensive experience with the Robot Operating System (ROS) on the Ubuntu platform, which enhances my ability to design and implement complex robotic systems effectively. As a regular user of Linux OS, particularly Ubuntu, I am proficient in leveraging its capabilities for my programming and robotics projects where the needed of this system is a must. However, I could use different OS for programming in the lenguages mention on the next stages.
 </p>
 
-I am currently looking for opportunities to work using my abilities as Engineer [my resume](https://read.cv/0xabdulkhalid)
+I am currently looking for opportunities to work using my abilities as Engineer [my resume](https://read.cv/josegzl)
 
 <br>
 
