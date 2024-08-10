@@ -5,7 +5,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josegzl">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&random=false&width=435&lines=Welcome+to+my+repository...+%3C3;Passionate+about;Computational+Robotics;Data+Engineering;I+love+cats..&hearts" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF710&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github;Artificial+Vision;Image+Processing;Computational+Robotics+Engineer..." alt="Typing SVG" /></a>
 </p>
 
 
